@@ -34,5 +34,5 @@
 
 ##### Airflow Connections
 * Databricks-default
-* Slack
+* [Slack](https://medium.com/datareply/integrating-slack-alerts-in-airflow-c9dcd155105)
 
